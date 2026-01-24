@@ -10,6 +10,7 @@
         queue.Enqueue(100);
         var value = queue.Dequeue();
         Console.WriteLine(value);
+     
         // Defect(s) Found:
 
         Console.WriteLine("------------");
